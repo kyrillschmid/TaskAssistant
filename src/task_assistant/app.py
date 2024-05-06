@@ -10,8 +10,6 @@ client = OpenAI()
 
 dev = False
 
-
-
 if "messages" not in st.session_state:
     st.session_state.messages = [
             {"role": "system", "content": """Act as an expert interviewer. You help employess of an organization to identify tedious tasks and reflect on them. Ask questions to help employees to
@@ -146,9 +144,6 @@ Suggest specific tools or techniques based on the following list if if makes sen
     st.session_state.messages.append({"role": "user", "content": summary_prompt})
     summary = query_model()
     st.markdown(summary)
-    
-    
-    
 
 def main():
     if st.session_state.page == "form":
