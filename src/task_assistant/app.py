@@ -1,11 +1,13 @@
 import streamlit as st
 import base64
 import uuid
+import json
 
 from departments import get_departments
-from prompts import get_summary_prompt, get_system_prompt
-from call_model import query_model
+from prompts import get_summary_prompt, get_system_prompt, get_course_prompt
+from call_model import query_model, generate_summary
 from firestore_util import write_to_firestore, upload_summary_file
+
 
 
 if "messages" not in st.session_state:
@@ -19,6 +21,9 @@ if "task" not in st.session_state:
 
 if "summary" not in st.session_state:
     st.session_state.summary = None
+
+if "courses" not in st.session_state:
+    st.session_state.courses = None
 
 if "summary_submitted" not in st.session_state:
     st.session_state.summary_submitted = False
@@ -97,17 +102,17 @@ def page_summary():
     summary_prompt = summary_prompt + st.session_state.task["needed_info"]
     
     if st.session_state.summary is None:
-        st.session_state.messages.append({"role": "user", "content": summary_prompt})
-        summary = query_model(st.session_state.messages)
+        st.session_state.messages.append({"role": "user", "content": summary_prompt})        
+        summary = st.write_stream(generate_summary(st.session_state.messages))
         st.session_state.summary = summary
-
-    st.markdown(st.session_state.summary)
-
+    elif st.session_state.summary is not None:
+        st.markdown(st.session_state.summary)
+    
     if st.button("Submit Summary", disabled=st.session_state.summary_submitted):
 
         uuid1 = uuid.uuid1()
         data = {**st.session_state.task, **{"summary": st.session_state.summary, "id": str(uuid1)}}
-        
+    
         public_url = upload_summary_file(data)
         write_to_firestore(data, public_url)
         

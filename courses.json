@@ -1,0 +1,391 @@
+[
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Kurskategorie (Mehrfachauswahl) ist identisch mit \"Sprachen\"oder\"Software Engineering\"oder\"Project Management\"oder\"Testing\"oder\"Leadership &#38; Management\"oder\"IT Consulting\"oder\"Softskill\"oder\"MW Sonstiges\"oder\"FKA Führungskräfteausbildung\""
+ },
+ null,
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Kursname",
+  "Column2": "Kurszusammenfassung"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "FKA Manual",
+  "Column2": "Damit du dich mit dem FKA besser vertraut machen kannst, stellen wir dir das eLearning-Modul FKA Manual bereit\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "FKA Challenge bauen",
+  "Column2": "Im Laufe des Programms wirst du dir eine oder mehrere Challenges designen. Hier haben wir dir den Weg dorthin, sowie ein paar inhaltliche Anhaltspunkte im Modul Challenge bauen vorbereitet.\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevSchool: Good Code",
+  "Column2": "In this school we show you how we develop good software.\n\nYou will not only learn the principles of clean code, but also get a basic understanding of what Software Engineering at MaibornWolff is all about.\n\nIn six units you will learn about the following topics:\n\n\t*\n\n\t* Unit: CLEAN CODE\n\t* Unit: LESS CODE\n\t* Unit: MODULAR CODE\n\t* Unit: CODING FOR PRODUCTION\n\t* Unit: CODING IN A TEAM \n\t* Unit: ENSURING CODE QUALITY\n\nCOSTS: 400€\nTIME: 6 X 3H\nCOURSE TYPE: ONLINE SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: BASIC PROGRAMMING KNOWLEDGE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevSchool: Sicheres Programmieren ",
+  "Column2": "In diesem Kurs findest du Seminartermine, bei denen wir dir zeigen, wie du einen sicheren Code schreiben kannst und worauf du als Entwickler*in achten musst. Dabei lernst du, wie Business Applikationen heutzutage üblicherweise angegriffen werden und worauf es Hacker abgesehen haben. Für die wichtigsten Themen geben wir dir Best Practices an die Hand, damit dein Code sicherer wird.\n\nKOSTEN: 300€\nZEIT: 3 X 4H\nCOURSETYPE: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\n \nVoraussetzung: DevSchool: Good Code \n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevOps Foundation: Module Culture & Automation",
+  "Column2": "This module derives from the former DevOps Foundation school and can be visited independently. It covers the cultural and methodological aspects which DevOps teaches us. Furthermore you will learn about the importance of automation in the context of CI\/CD and gain hands on experience.\n\nCOSTS : 200€\nTIME: 8H\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: EVERYONE\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevOps Foundation: Infrastructure & Provisioning",
+  "Column2": "This module derives from the former DevOps Foundation school and can be visited independently. It covers the infrastructure of code aspect by providing hands on experience with terraform. In addition you will learn about configuration management with IAC Tools.\n\nCOSTS : 200€\nTIME: 8H\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: EVERYONE\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Auftaktveranstaltungen",
+  "Column2": "You are:\n\n\t* brand new and still have a few questions here and there?\n\t* want to get to know the other newcomers and the board of directors in a relaxed atmosphere?\n\t* not so new anymore and have already asked yourself when the next kick-off event is?\n\nThe ONBOARDING EVENT is just for you and should make your start with us even easier.\n\nA little tip: Take the opportunity to get to know another location where you might not normally work!\n\nWe look forward to an exciting time with you!\n\n___________________________________________________________________________________________________________________________________________\n\nDu bist:\n\n\t* ganz neu und hast hier und da noch ein paar Fragen?\n\t* willst die anderen Neulinge und die GF in ganz entspannter Runde kennenlernen?\n\t* gar nicht mehr ganz so neu und hast dich schon gefragt, wann die nächste Auftaktveranstaltung ist?\n\nDie AUFTAKTVERANSTALTUNG ist genau für dich und soll dir den Einstieg bei uns noch leichter machen.\nKleiner Tipp: Nutz die Chance, bei einem Präsenztermin einen anderen Standort kennenzulernen, an dem du vielleicht normalerweise nicht arbeitest!\n\nWir freuen uns auf eine spannende Zeit mit euch!\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Agile Requirements Engineering ",
+  "Column2": "In den zwei Schulungstagen wollen wir euch die verschiedenen Facetten eines Digital Designer*in näher bringen, auf die unterschiedlichen Projektphasen eingehen und euch durch mehrere Übungen die Arbeit dieser Rolle näher bringen. Dafür geben wir euch Tipps und Tricks zur Hand, zeigen euch einige Tools und freuen uns auch auf einen spannenden Erfahrungsaustausch unter den Schulungsteilnehmer. Mit der Schulung möchten wir Consultants und Software Engineers gleichermaßen adressieren und die Schulung setzt ein Basiswissen an agilen Grundlagen voraus.\n\nKOSTEN: 400€\nZEIT: 16H\nKURSTYP: REMOTE SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Wunschkunden Lernreise 1.0",
+  "Column2": "Deine Reise zum Wunschkunden!\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Fire Safety & First Aid",
+  "Column2": "TIME: 0H (NOT YOUR OWN TIME INVEST!) \nCOURSE TYPE: SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Hands on UX\/UI ",
+  "Column2": "Dieser Kurs beinhaltet eine School und richtet sich an Consultants sowie an Softwareentwickler, die lernen möchten, wie Screens konzipiert und gestaltet werden.\n\nKOSTEN: 400€\nZEIT: 16H\nKURSTYP: SEMINAR\nZIELGRUPPE:\nVORAUSSETZUNGEN: USABILITY SCHOOL\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "English with Ease ",
+  "Column2": "Dies ist ein Angebot für alle Kollegen*innen, die ihr Englisch in einem Einzelcoaching verbessern wollen. Das Coaching umfasst 10 Termine. Jeder Termin beinhaltet eine Doppelstunde von je 45 Minuten. Das Training ist für jedes Level und kann 1:1 oder remote durchgeführt werden.\n\nKOSTEN: 1.000€ (OPTIONAL SPRACHLERNAPP DAZU BUCHEN: 30€ FÜR 6 MONATE)\nZEIT: 10X90 MIN\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: DAS TRAINING IST FÜR JEDES LEVEL UND KANN 1:1 ODER REMOTE DURCHGEFÜHRT WERDEN.\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "German with Ease",
+  "Column2": "This is an offer for all colleagues who want to improve their German in an individual coaching. The coaching includes 10 appointments. Each appointment includes a double lesson of 45 minutes each. The training is for each level and can be done 1:1 or remote.\n\nCOSTS: 1000€\nTIME: 10X90MIN\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: THE TRAINING IS FOR EACH LEVEL AND CAN BE DONE 1:1 OR REMOTE.\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "CloudSchool - Cloud Foundation",
+  "Column2": "After this training you will have a basic understanding of how we understand and use the Cloud and can evaluate where Cloud expertise could be helpful for your project.\n\nYou have a world map of all cloud aspects in your mind and have realized that cloud concepts require fundamentally new ways of thinking. \n\nAfter the training, you are enthusiastic about using the Cloud in your daily work and want to deepen your knowledge.\n\nThis module is a good preparation for the following:\n\n\t* Cloud Consulting Competency\n\t* Rethink Cloud development\n\t* Make yourself ready for a productive enterprise cloud\n\nCOSTS: 200€\nTYPE: ONLINE-SEMINAR\nDAYS: 8H\nTARGET GROUP: ALL STAFF, TECHNICAL OR CONSULTING, OPERATIONAL OR CROSS-FUNCTIONAL\nREQUIREMENTS: NONE"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Biologie der Begeisterung",
+  "Column2": "Tauche mit diesem Kurs in die spannende Welt der Neurobiologie und Neuroimmunologie ein. Lerne unter anderem, was die eigene Leistungsfähigkeit und die der Mitarbeiter konkret für das Thema Führung in einer agilen Welt bedeutet.\n\nDive into the exciting world of neurobiology and neuroimmunology with this course. Learn, among other things, what your own performance and that of your employees means concretely for the topic of leadership in an agile world.\n\nCOSTS: 600€\nTIME: 8H\nCOURSETYPE: (REMOTE) SEMINAR & VIDEOS\nTARGET GROUP: EVERYONE\nREQUIREMENTS: NONE \n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "CloudSchool - Make yourself ready for a productive enterprise Cloud",
+  "Column2": "Nach der Schulung kannst du in anspruchsvollen großen Projekten mit vielen technischen und organisatorischen Abhängigkeiten die Fragen zu den Querschnittsthemen stellen, die nötig sind, um deine Cloudplattform zu konzipieren, und kennst gängige Antworten. Du hast die nötigen Kompetenzen aufgebaut, um den Kunden gewinnbringend dahingehend zu beraten, was sich in Cloudprojekten auf Enterprise-Level ändert, wofür ich diese Änderung benötige und wie ich sie produktiv nutze.  \n\nAfter the training, you will be able to work in challenging large projects with many technical and organizational dependencies ask the questions on the cross-cutting issues needed to design your cloud platform and know common answers. You've built the skills necessary to profitably advise clients on what is changing in enterprise-level cloud projects, what I need this change for, and how I can use it productively.\n\nCOSTS: 200€\nTIME: 8H\nTYPE: REMOTE SEMINAR\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "CloudSchool - Rethink Cloud development",
+  "Column2": "Nach der Schulung hast du verstanden das mit steigender Cloudreife ein stärkeres Umdenken bei der Entwicklung erforderlich ist und weißt welche Weichen du stellen musst. Du hast erste Besonderheiten von Cloudreadiness anhand von konkreten Beispiel erfahren. Du hast ein Gefühl bekommen für die Vielzahl der Lösungsmöglichkeiten die dir die Cloud bietet und kannst einschätzen welche für dich die geeignete ist. \n\n After the training you understood that with the increasing cloud maturity a stronger rethinking in the development is necessary and you know which course to set. You have experienced first characteristics of Cloudreadiness with concrete examples. You got a feeling for the variety of solutions that the cloud offers and can estimate which one is the right one for you.\n\nCOSTS: 200€\nTIME: 8H\nTYPE: REMOTE SEMINAR\nTARGET GROUP: -\nREQUIREMENTS: -\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "IoT School: Core Concepts using Azure IoT",
+  "Column2": "Explore the world of IoT with the first module of our internal IoT school.\nThis module focuses on IoT Concepts, Device Onboarding, and Connectivity, all based on Microsoft Azure IoT.\n\nIOT CONCEPTS: Gain an understanding of the core principles and practical applications of IoT.\n\nDEVICE ONBOARDING: Learn how to securely and efficiently connect devices to the Azure IoT ecosystem.\n\nCONNECTIVITY: Dive into the concepts behind Azure IoT Hub to ensure device communication with the cloud.\n\nOur hands-on sessions provide practical experience, allowing you to work with simulated IoT devices.\n\nCOSTS: 400€\nTIME: 4H\nCOURSETYPE: SEMINAR\nTARGET GROUP: -\nREQUIREMENTS: Programming knowledge (Java or similar)\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Lösungsfokussierte Mitarbeiterentwicklung",
+  "Column2": "ANGENOMMEN, ES PASSIERT EIN WUNDER....\n\nStarte mit diesem Modul tief in die Welt der Lösungsfokussierung und lerne dabei Fragetechniken, Haltungen und Grundsätze kennen. \n\nCOST: 600 €\nTIME: OWN TIME INVEST\nCOURSE TYPE: COACHING\nTARGET GROUP: MANAGEMENT\nPRECONDITIONS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "iOS Development Foundation",
+  "Column2": "DIESER KURS IST EIN SEMINAR & E-LEARNING. Das iPhone hat unseren Alltag grundlegend verändert. Auch die Programmiersprache Swift hat sowohl als flexible Alternative für Einsteiger als auch als mächtige Full Stack Programmiersprache für Wirbel gesorgt. Du hast Interesse an Phone, Watch, Mac oder sogar AR Entwicklung, dann bist du hier genau richtig.\n\nKOSTEN: 400€\nZEIT: 16H\nKURSTYP: ELEARNING & (REMOTE) SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: ERFAHRUNG IN OOP\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Microservices School Foundation",
+  "Column2": "Am Ende der Schulung seit ihr selbständig in der Lage, ein Shippable Product mit Microservices zu designen, bauen, testen und zu betreiben.\n\n\t* Ihr lernt wie ihr mit Hilfe von Event-Storming einen initialen Microservice Schnitt findet und bewertet.\n\t* Ihr lernt Kriterien kennen anhand derer ihr Schnittstelen designen und evaluieren könnt.\n\t* Ihr lernt die Grundlagen des Betriebs von Microservice Anwendungen in Kubernetes Clustern.\n\t* Ihr lernt das gesamte Spektrum der Microservice Umsetzung unter Labor Bedingungen kennen.\n\n________________________________________________________________________________________\n\nAt the end of the course you will be able to design, build, test and operate a shippable product with microservices.\n\n\t* You will learn how to find and evaluate an initial microservice cut with the help of event storming.\n\t* You will learn criteria to design interfaces.\n\t* You will learn the basics of running microservice applications in Kubernetes clusters.\n\t* You will learn the whole spectrum of microservice implementation under lab conditions.\n\nKOSTEN: 600€\nZEIT: 24H\nKURSTYP: REMOTE SEMINAR OR ONSITE\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Architecture Foundation",
+  "Column2": "Software Architecture - there is more to it than boxes, lines and the question which framework to use. [😉] \nIf you want to find out what that is join this school.\n\nCOSTS: 400€\nTIME: 16H\nCOURSETYPE: REMOTE SEMINAR\nTARGET GROUP: alle\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Stimmtraining & Auftrittscoaching",
+  "Column2": "In diesem Kurs findest du Seminartermine, die sowohl in Präsenz als auch Remote stattfinden. \n\n\t* Erarbeiten von Techniken zur Optimierung der eigenen sprachlichen und darstellerischen Fähigkeiten (den Auftritt als Berater vor Kunden zu optimieren).\n\t* Mit dem richtigen Handwerkszeug zur professionellen, überzeugenden Präsenz gelangen.\n\t* Ein souveränes Auftreten, eine klangvolle und differenziert einsetzbare Stimme zur optimalen Vermittlung der Ziele.\n\t* Die Freie Rede.\n\nIm Kern bedeutet das: Die Freude und den Spaß an der eigenen Fähigkeit, sich selbst auszudrücken und andere kommunikativ zu „führen“.\n\nIn this course you will find seminar dates that take place both in presence and remotely. \n\n\t* Developing techniques to optimise your own linguistic and presentation skills (optimising your appearance as a consultant in front of clients).\n\t* Using the right tools to achieve a professional, convincing presence.\n\t* A confident appearance, a resonant voice that can be used in a differentiated way to optimally convey the goals.\n\t* Free speech.\n\nIn essence, this means: enjoying and having fun with one's own ability to express oneself and to \"lead\" others communicatively.\n\nCOST: 600€\nTIME: 18H (6X 3H)\nTRAINER: MARTIN RICHTER\nCOURSE TYPE: ONLINE SEMINAR AND SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Jährliche Sicherheitsunterweisung"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Frühe Phasen School \/ Digital Design School",
+  "Column2": "Die Frühe Phasen School richtet sich nicht nur an Consultants. Wir alle – Berater, Software Ingenieure und Tester – haben immer wieder engen Kontakt mit dem Kunden und sollten für die unterschiedlichsten Situationen gerüstet sein, um Vorstellungen aus den Köpfen der Menschen zu holen und ein gemeinsames Bild über Inhalte und Technologie zu erarbeiten und abzustimmen. Sich gegenseitig zu verstehen ist die Grundlage, um anwenderfreundliche IT-Lösungen zu bauen.\n\nKOSTEN: 300€\nZEIT: 12H\nKURSTYP: SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Informationssicherheit für Mitarbeiter "
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Microservices School Advanced",
+  "Column2": "You have learned the basics of a Microservice Architecture in the Foundation School and\/or in your project. In the Advanced School we want to teach you some more advanced concepts and having an exchange about different experiences in our customer projects.\n\nCosts: 600€\nTime: 1,5 days\nWhere: Onside\nAttendees: Visitors of the Microservice Foundation School with 3+ years experience in Software Development\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Architecture Knowledge Sharing Barcamp: Azure IoT",
+  "Column2": "Mit den Architecture Knowledge Sharing Bar Camps bieten wir euch ein flexibles Austauschformat, um Architekturwissen zu vertiefen. Die Inhalte für das Bar Camp gestaltet ihr selbst mit. Somit habt ihr die Möglichkeit Themen, die euch interessieren oder gerade im Projekt beschäftigen mit einzubringen.\n\nKOSTEN: 100€\nZEIT: 4H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE:\nVORAUSSETZUNGEN: INTERESSE \/ ERFAHRUNG AN IOT AUF AZURE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Usability School ",
+  "Column2": "In diesem Kurs findet ihr Seminartermine. \nDer Grad der Usability einer Anwendung bestimmt, wie effektiv, effizient und zufriedenstellend die Benutzung mit ihr ist. Die Usability ist eine Grundlage guter UX - User Experience. Doch wie stellt man eine hohe Usability in seinem Entwicklungsprojekt her? In diesem Seminar zeigen wir euch, wie ihr dies mithilfe des User-Centered-Design Ansatz erreichen könnt.\n\nKOSTEN: 400€\nZEIT: 16H\nKURSTYP: SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Soulboxing ",
+  "Column2": "SOULBOXING bringt Dich aus dem Gleichgewicht, damit Du Deine Balance wiederfinden kannst.\nSOULBOXING bringt Dich in Kontakt mit Dir selbst und mit Deinem Gegenüber. Dadurch kannst Du ein „wir“ schaffen und Dich selbst entwickeln.\nDu wirst Deine Grenzen spüren, überschreiten und versetzen und dadurch neue Potenziale nutzbar machen.\n\nSOULBOXING brings you out of balance so that you can find your balance again.\n\nSOULBOXING brings you in contact with yourself and with your counterpart. Thereby you can create a \"we\" and develop yourself.\n\nYou will feel, exceed and move your limits and thereby make new potentials usable.\n\nCOST: 400 €\nTIME: 17,5H (5 X 3,5H)\nCOURSE TYPE: SEMINAR\nTARGET GROUP: MANAGEMENT\nPRECONDITIONS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Modern Java ",
+  "Column2": "Learn how to use the latest Java features since Java 8 and how to migrate your project from Java 8 to Java 11:\n\n\t* Latest language features\n\t* Migration guide\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Microservices BarCamp: API Design",
+  "Column2": "Mit den Microservices Bar Camps bieten wir euch ein flexibles Austauschformat, um einen Themenschwerpunkt rund um Microservice Architekturen zu vertiefen. Die Agenda für den Bar Camp Tag gestaltet ihr selbst mit. Somit habt ihr die Möglichkeit Themen, die euch interessieren oder gerade im Projekt beschäftigen mit einzubringen.\n\nKOSTEN: 100€\nZEIT: 4H\nKURSTYP: REMOTE SEMINAR\/BARCAMP\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevOps Foundation: Observability",
+  "Column2": "This module derives from the former DevOps Foundation school and can be visited independently. It covers the basics of the three important data structures in the context of Observability: Metrics, Logs and Traces, as well as introducing the concept of Events. You will have practical experience with Kibana, Grafana and other tools of this realm.\n\nCOSTS : 200€\nTIME: 8H\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: EVERYBODY\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Projektleiter:innen-Tools",
+  "Column2": "_GRUNDBEGRIFFE UND TOOLS FÜR PROJEKTLEITER:INNEN_\n\nMach Dich hier mit Grundbegriffen und Tools vertraut, die du als Projektleiter:in kennen solltest.\n\nCOST: 0€\nTIME: CA. 3 H \nCOURSE TYPE: ELEARNING\nTARGET GROUP: ALLE\nPrerequisites: keine\nLanguage: Deutsch"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Babbel - Jahreslizenz - mehrere Sprachen gleichzeitig lernen",
+  "Column2": "Du möchtest dein Englisch aufbessern oder eine neue Sprache lernen?\n\n\t* Egal ob du anfängst oder fortgeschritten bist \n\t* Hören, Lesen, Schreiben und Sprechen trainieren\n\n\t* Freie Wahl zwischen den Sprachen und du kannst mehrere Sprachen gleichzeitig lernen\n\t* Von Muttersprachlern gesprochene Kurse, wodurch Lernende der Sprache gleich so ausgesetzt werden, wie sie im wirklichen Leben verwendet wird.\n\nKOSTEN: 107,88€\/ JAHR\nZEIT: INDIVIDUELL\nKURSTYP: APP \nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevOps Foundation: Container & Orchestration",
+  "Column2": "This module derives from the former DevOps Foundation school and can be visited independently. It covers the basics about containers including hands on exercises with docker. On top of that you learn about container orchestration using kubernetes in a hands on.\n\nCOSTS : 200€\nTIME: 8H\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: -\nREQUIREMENTS: -\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Achtsamer Umgang mit sich selbst und anderen",
+  "Column2": "Du hast von Mindfulness gehört? Du fragst Dich was Dir dieser Kurs bringen soll? \n\nWir alle haben unsere Baustellen - privat und im Berufsumfeld. Wir suchen alle irgendwie nach Strategien und Lösungen. Mit Achtsamkeit bekommst Du einen Werkzeugkoffer an die Hand, der Dir hilft, damit umzugehen.\n\nYou have heard about Mindfulness? Are you wondering what this course will do for you? \n\nWe all have our problems - in our private lives and at work. We are all looking for strategies and solutions. With Mindfulness you get a toolbox that helps you to deal with them.\n\nCosts: 500€\nTime: 20h (8 x 2,5h)\nCourse type: Seminar\nTarget group: all\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "English Refresher for emailing",
+  "Column2": "Du möchtest deine Email-Kommunikation verbessern, Umgang mit häufigen\/klassischen Problemen und Fragen? \n\nDer Unterricht findet online statt und zwischen 7.00-21.00 Uhr, je nach Wunsch der Teilnehmer und Trainerverfügbarkeit.\n\nKOSTEN: 120€\nZEIT: 3X2H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "English Refresher for situations with colleagues",
+  "Column2": "Verbessern des Redeflusses und der Genauigkeit in verschiedenen Situationen mit Kollegen aus dem IT-Bereich. \n\nDer Unterricht findet online statt - zwischen 7.00-21.00 Uhr, je nach Wunsch der Teilnehmer und Trainerverfügbarkeit\n\nKOSTEN: 200€\nZEIT: 5X2H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "English Refresher for Telephoning",
+  "Column2": "Telefon-Fähigkeiten auf Englisch auffrischen, verbessern und verschiedene auch schwierige Situationen meistern.\nDer Unterricht findet online statt - zwischen 7.00-21.00 Uhr, je nach Wunsch der Teilnehmer und Trainerverfügbarkeit.\n\nKOSTEN: 120€\nZEIT: 3X2H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Dein Training auf Englisch",
+  "Column2": "Ihr möchtet euer eigen konzipiertes Training demnächst intern oder extern auf Englisch halten?\nUnd ihr wünscht euch etwas mehr Sicherheit in der Sprache? \nDann seid ihr hier genau richtig!\n\nDieses \"Train the Trainer\" Modul unterstützt euch dabei, eure Schulung mit Selbstvertrauen und Genauigkeit auf Englisch durchzuführen.\nGeplant sind 5 Unterrichtseinheiten á 90 Minuten, indem ihr mit dem externen Sprachtrainer euer Training (oder relevante Teile davon) durchgeht. Die zeitliche Abstimmung der Termine ist sehr flexibel.\n\nKOSTEN: 500€\nZEIT: 7,5H (5 X 1,5H)\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: FERTIGES TRAININGSKONZEPT & B1 LEVEL\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "German Sessions for Travel",
+  "Column2": "Compact knowledge transfer on the complex of topics related to a trip to Germany. Lessons take place online - between 7.00-21.00 hours, depending on the participants' wishes and the availability of the trainer \n\nCOSTS: 160€\nTIME: 4X2H\nCURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALL\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "German Sessions for Team-Communication and Small-Talk",
+  "Column2": "Team communication and small talk. Lessons take place online - between 7.00-21.00 hours, depending on the participants' wishes and the availability of the trainer.\n\nCOSTS: 200€\nTIME: 5X2H\nCURSETYPE: ONLINE-SEMINAR\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Agile Basic Schulung",
+  "Column2": "In this training you will learn the basics of agile software development. You will get an overview of the most common agile frameworks and methods in our company and understand the principles of work and self-organisation in agile and cross-functional teams. The Training and the Material is in German. \n\nIn diesem Training lernen Sie die Grundlagen der agilen Softwareentwicklung kennen. Sie erhalten einen Überblick über die gängigsten agilen Frameworks und Methoden in unserem Unternehmen und verstehen die Prinzipien der Arbeit und Selbstorganisation in agilen und cross-funktionalen Teams. Das Training wird auf Deutsch gehalten.\n\nCOSTS: 400€\nTIME: 16H\nCOURSETYPE: SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "German Basic Sessions",
+  "Column2": "Compact knowledge transfer on the complex of topics related to smalltalk and based on examples like trip to Germany. Lessons take place online - between 7.00-21.00 hours, depending on the participants wishes and the availability of the trainer.\nCOSTS: 200€\nTIME: 5X2H\nCURSETYPE: ONLINE-SEMINAR\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": " Führungsprisma",
+  "Column2": "_DAS MAIBORNWOLFF FÜHRUNGSPRISMA_\n\nWie verstehen wir Führung im organisationalen Kontext?\n\nWas ist wichtig zu wissen, wenn es um Mitarbeitende oder Wirtschaften in unserem Sinne geht? \n\nHier kannst du dich schlau machen!\n\nCOST: 0 €\nTIME: YOUR OWN INVEST\nCOURSE TYPE: E-LEARNING\nTARGET GROUP: ALL\nPRECONDITIONS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Whole Team Testing",
+  "Column2": "Alle, die lernen wollen, was Testen in einem agilen Team bedeutet. Du lernst, wie das gesamte Team bei der Planung und der Ausführung von Testaktivitäten zusammenarbeiten kann, die notwendig sind, um ein hochwertiges Produkt zu erhalten.\n\nKOSTEN: 450€\nZEIT: 24H\nKURSTYP: SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "IT-Bebauungsschulung",
+  "Column2": "Alle unsere Kunden sprechen davon: Die „digitaler Transformation“ hält Einzug in ihre Geschäftsmodelle, Produkte und Dienstleistungen. Doch was bedeutet das eigentlich? Wie geht man eine Transformation systematisch an, wenn die großen Visionsgestaltungen abgeschlossen und Digitalisierungsportfolios gefüllt sind? Wie überführt man die digitale Strategie in die Realität?\n\nEin bewährter Ansatz ist es, die strukturelle Transformation mit Hilfe von Architekturmethoden zu skizzieren und auszuplanen. Geschäftsprozesse werden dabei in Analogie zu einer Stadtplanung mit IT-Lösungen bebaut.\n\nKOSTEN: 400€\nZEIT: 16H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Microservices Bar Camp: Eventual Consistency",
+  "Column2": "Mit den Microservices Bar Camps bieten wir euch ein flexibles Austauschformat, um einen Themenschwerpunkt rund um Microservice Architekturen zu vertiefen. Die Agenda für den Bar Camp Tag gestaltet ihr selbst mit. Somit habt ihr die Möglichkeit Themen, die euch interessieren oder gerade im Projekt beschäftigen mit einzubringen.\n\nKOSTEN: 100€\nZEIT: 4H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Microservices Bar Camp: Testing",
+  "Column2": "Mit den Microservices Bar Camps bieten wir euch ein flexibles Austauschformat, um einen Themenschwerpunkt rund um Microservice Architekturen zu vertiefen. Die Agenda für den Bar Camp Tag gestaltet ihr selbst mit. Somit habt ihr die Möglichkeit Themen, die euch interessieren oder gerade im Projekt beschäftigen mit einzubringen.\n\nKOSTEN: 100€\nZEIT: 4H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Trust and Psychological Safety",
+  "Column2": "DEFINITION, REFLEXION UND ERLEBEN DER EIGENEN GRUNDHALTUNG UND DES EIGENEN VERHALTENS. \n\nDu bekommst Antworten auf die folgende Fragen:\n\n• Was ist Vertrauen und Psychologische Sicherheit?\n• Warum sind sie wichtig?\n• Wie bemerke und fühle ich, ob sie da sind oder nicht?\n• Wieviel Vertrauen spüre ich in meiner aktuellen Umgebung (Team, Organisation)?\n• Was beeinflusst mein aktuelles Verhalten?\n• Wie kann ich mein Verhalten verändern, um Vertrauen (wieder) herzustellen?\n• Wo sind meine Stärken hier, auf denen ich aufbauen kann?\n• Wie adressiere ich fehlendes Vertrauen?\n\nKOSTEN: 850€\nZEIT: 3 TAGE (2 TAGE SEMINAR, 1 TAG EIGENE REFLEXION UND AUSPROBIEREN)\nKURSTYP: (REMOTE) SEMINAR \nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Unreal Engine 4 ",
+  "Column2": "In this course you will find the recordings of the Unreal Engine 4 Workshop series. So if you've always wanted to know more about Unreal Engine, you've come to the right place.\n\nCost: 0€\nTime: 6h\nCourse type: Videos\nTarget group: all\nPrerequisites: none\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "The Challenge of Egypt™ with PRINCE2",
+  "Column2": "Der interaktive Projektmanagement-Workshop basierend auf den \"best practices\" von PRINCE2®\n\n​\nKOSTEN: 400€\nZEIT: 16 H\nKURSTYP: SEMINAR\nZielgruppe: alle\nVORAUSSETZUNGEN: KEINE VORKENNTNISSE MIT PRINCE 2 ERFORDERLICH\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "PRINCE2 Agile Foundation",
+  "Column2": "Dieser Kurs beinhaltet ein Remote Seminar. Das interaktive PRINCE2 Agile® Foundation Seminar behandelt die vier wesentlichen Kerninhalte von PRINCE2® als Grundlage des klassischen Projektmanagements und verknüpft diese mit dem agilen Manifest, agilen Prinzipien und den in der Praxis bewährten agilen Methoden, wie z.B. Scrum, Kanban, ect.! Nach dem dreitägigen Seminar hast du die Möglichkeit Online eine Prüfung durchzuführen.\n\nKOSTEN: 740€ + 495€ PRÜFUNGSGEBÜHR\nZEIT: 24H\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": " Mentor:in werden",
+  "Column2": "In diesem Kurs findest du Seminartermine. Das Seminar informiert über die Bedeutung des Mentoring für die Integration neuer Kollegen. Die Teilnehmer erfahren was das Mentorin leistet und was nicht Bestandteil des Programms ist. Zudem lernen sie Werkzeuge kennen, die sie im Rahmen ihrer Mentoren-Tätigkeit einsetzen werden.\n\nIn this course you will find seminar dates. The seminar informs about the importance of mentoring for the integration of new  colleagues. Participants will learn what mentoring does and what is not part of the programme. They will also learn about tools that they will use in their mentoring activities.\n\nCOSTS: 0€\nTIME: CA. 2H\nCOURSETYPE: (REMOTE) SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: ONE YEAR OF COMPANY AFFILIATION\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Public Speaking ",
+  "Column2": "This Course is an exclusive Offer for our tunesian colleagues. \n\nWhether you're a consultant or developer, or an employee in CS, you may be asked to give a presentation to your colleagues, customers or partners. This is often difficult. However, there are simple and useful techniques to help you adapt to these uncomfortable situations. This training is based on simulations, role plays and playful workshops. Strengthen your strengths and become aware of areas that need improvement.\n\nCOSTS: 200€\nTIME: 21H (2 DAYS + 1 HALF DAY + 1H IND. COACHING) \nCOURSETYPE: SEMINAR\nTARGET GROUP: ALL TUNESIAN COLLEAGUES\nREQUIREMENTS: THE TRAINING IS FOR EACH LEVEL AND CAN BE DONE 1:1 OR REMOTE.\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "DevSchool: Functional Programming in Java",
+  "Column2": "OVERVIEW\n\nHave you ever wondered if FUNCTIONAL PROGRAMMING is useful for more than confusing people with big words like Monad and Isomorphism? If so, this school is for you. :)\n\nFunctional programming is a programming pattern that rests on very few—but highly impactful—principles:\n\n\t* Use functions to structure programs,\n\t* functions are values, and\n\t* avoid side effects.\n\nOur goal for the DEVSCHOOL: FUNCTIONAL PROGRAMMING IN JAVA is to show you how to apply functional programming techniques in your everyday work as software craftswoman\/craftsman and to give you an impression of what benefits this may yield.\n\nIn particular, we want to show that functional programming patterns helps us to write code that is\n\n\t* easier to test and less likely to have bugs,\n\t* more maintainable, and\n\n\t* easier to read and comprehend.\n\nThe school focuses on writing functional code in Java so that the know-how gained is easy to transfer and can be applied to project work. We also introduce functionally oriented features of Java 14+ like RECORDS, SEALED CLASSES, and PATTERN MATCHING as well as testing approaches like PROPERTY-BASED TESTING that combine well with functional code. Additionally, we use the VAVR library to introduce some advanced functional data structures like Either or Try.\n\nSESSIONS\n\nSessions will be 2h every week with multiple breaks and group work sessions. (Almost) every session has an (optional) homework to deepen the understanding of functional concepts and their application in Java.\n\n1. INTRODUCTION)\n\n\t* What is functional programming?\n\t* Why functional programming?\n\n2. FUNCTIONAL PROGRAMMING IN JAVA (\n\t* Functions in Java\n\t* Structuring programs with functions in Java\n\n\t* Avoiding side effects\n\n3. PLAYING AROUND WITH FUNCTIONS \n\t* Recursion\n\t* Function composition\n\n\t* Higher order functions\n\n\t* Partial function application\n\n4. ALGEBRAIC DATA TYPES \n\t* Modeling complex business domains\n\t* Defining concise business logic\n\n5. LISTS AND STREAMS. \n\t* Lists\n\t* Streams\n\n6. WRITING FUNCTIONAL PROGRAMS \n\n\t* Replacing null checks with Optional\n\t* Replacing exceptions with Either & Try\n\n7. PROPERTY-BASED TESTING & REAL-LIFE APPLICATION GROUP-WORK \n\t* Property-based testing\n\t* Real-life application groupwork\n\nPREREQUISITES\n\n\t* Interest in functional programming\n\t* Basic knowledge of Java\n\n\t* Java dev tooling (IntelliJ IDE or similar, Docker, installation of JDK 17+)\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Kotlin to the rescue",
+  "Column2": "In this course you will find a 1.5 day seminar. \n\nYou will learn basic (and some advanced) concepts of Kotlin and how to stay compatible with Java. Aside from theory, you will do your own exercises (either allone or in small teams). You will also see (and work on) a Spring Microservice with a real database.\n\nCOST: 400€\nTIME: 14H \nCOURSE TYPE: ONLINE SEMINAR\nTARGET GROUP: ALL\nREQUIERES: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Udemy - Lizenz",
+  "Column2": "Udemy offers you a wide variety of online courses on different topics, such as software development, leadership, communication, presentation training and much more.\n\nCosts: 140€\nDuration: Until end of June 2023\nTYPE: LICENCE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Professional Scrum Master II",
+  "Column2": "In diesem fortgeschrittenen Professional Scrum Master II Training der Scrum.org lernst du den facettenreichen Herausforderungen, denen Scrum Master täglich ausgesetzt sind, effektiv zu begegnen. Anders als im Professional Scrum Master (PSM) Training das sehr auf das “Wie funktionierts” setzt, ist der Advanced Professional Scrum Master PSM II der Scrum.org explizit auf die Rolle des Scrum Master ausgerichtet. \nBei dem erfahrenen Trainer, der dieses Training in unseren Räumlichkeiten durchführt bekommst da daher einen wertvollen Erfahrungsaustausch mit Teilnehmern aus anderen Unternehmen. Wir haben nur zwei Plätze pro Session, daher schnell sein lohnt sich!\n\nKOSTEN: 400€\nZEIT: 16 H\nKURSTYP: SEMINAR \nZIELGRUPPE: SCRUM MASTER \nVORAUSSETZUNGEN: PSMI\/ ODER ERFAHRUNG IN DER ROLLE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Architecture Knowledge Sharing BarCamp: Trade-offs of different architecture styles",
+  "Column2": "With the Architecture Knowledge Sharing Bar Camps, we offer you a flexible exchange format to deepen your architectural knowledge. You help to design the content of the Bar Camp. Thus, you have the opportunity to bring in topics that interest you or that you are currently working on in the project.\n\nCOSTS: 100€\nTIME: 4H\nCOURSETYPE: ONLINE-SEMINAR\nTARGET GROUP: SOFTWARE DEVELOPERS WHO ARE INTERESTED IN ARCHITECTURE AND ALREADY HAVE KNOWLEDGE OF ARCHITECTURE\nREQUIREMENTS: INTEREST IN SOFTWARE ARCHITECTURES \/ EXPERIENCE WITH SOFTWARE ARCHITECTURES\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Cybersecurity Fitness Studio 2021",
+  "Column2": "Jede:r Fitnessstudio-Besucher:in macht sich in den aufeinanderfolgenden Sessions fit für Gespräche zum Thema Cybersecurity – beispielsweise mit Kunden. Ihr kennt danach die Basics und könnt euch ein Bild davon machen. Ihr werdet nicht zu Expert:innen, aber ihr wisst worauf ihr achten müsst und lernt die Expert:innen dazu kennen.\nHier kommst du zum  TEASER VIDEO\n\nKOSTEN: 0€\nZEIT: JE SESSION 1H \nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "MSD4ND - Ask us Anything-Edition",
+  "Column2": "Modern software development is certainly a rather complex endeavour – for all of us. But don't despair if you don't immediately get the picture – we support each other. In the MSD4ND meetings you get the chance to ask any of those “stupid questions” (being never stupid) on any topic in software engineering: from the cloud to microservices to the question of what an API actually is and why do I need one?\n\nCOSTS: 50€\nTIME: 2H\nCOURSETYPE: ONLINE-DISCUSSION\nTARGET GROUP: PEOPLE WITH A NON-ENGINEERING BACKGROUND – AND EVERYONE IS WELCOME TO TAKE PART\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Coaching performance, vitality and enthusiasm",
+  "Column2": "LEISTUNGSDIAGNOSTIK EINZELCOACHING\n\nMit einem standardisierten Test ermöglicht werden deine Belastungen und Ressourcen erfasst. Diese Grundlage ermöglicht Veränderungsbereitschaft, stärkt die Selbstwirksamkeit und ermöglicht eine neue Umsetzungsstärke.\n\nDer Integrale Stress Test™ ist Dein Einstieg um in absehbarer Zeit ein Mehr an Energie, ein Mehr an Lebensfreude und ein Mehr an Widerstandskraft für die Herausforderungen des Lebens herzustellen.\nNeben Einzelcoachings als Gespräch können zusätzlich noch stressmedizinische und leistungsdiagnostische Tests gemacht werden. \n\nKOSTEN: X€\nZEIT: UP TO YOU \nKURSTYP: LIVE-COACHING\nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: BIOLOGY OF ENTHUSIASM\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Positive Psychologie",
+  "Column2": "Die Positive Psychologie unterstützt Menschen durch wissenschaftliche Konzepte dabei, ihre Stärken zu erkennen, angenehme Gefühle bewusst zu erleben und ihr Potential ganzheitlich und persönlich sinnstiftend zu nutzen. In diesem Kurs findest du eine Basis-Session und mehrere Vertiefungssessions.\n\nPositive psychology uses scientific concepts to help people recognise their strengths, consciously experience pleasant feelings and use their potential in a holistic and personally meaningful way. In this course you will find a basic session and several in-depth sessions.\n\nCOST: 100€ PER SEMINAR\nTIME: 4H BASIC MODUL \/ IN-DEPTH SESSIONS \n\nCOURSE TYPE: (ONLINE-)SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Web-Architekturen (iSAQB CPSA Advanced Level Modul WEB)",
+  "Column2": "Die Schulung beschäftigt sich dazu mit den zum Teil wenig bekannten Details der Basisprotokolle, mit den Auswirkungen, die sich aus der internen Anwendungsarchitektur für die Gesamtarchitektur ergeben, mit Frontend-Optimierungen und der Einbettung in die Gesamtinfrastruktur aus Standardkomponenten wie Intermediaries und den Invidualbestandteilen.\n\nCOSTS: 600€\nTIME: 16H\nCOURSETYPE: SEMINAR\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Flipchart für ungeübte Visualisierer:innen",
+  "Column2": "Professionell, kreativ, wirkungsvoll! Schluss mit langweiligen Veranstaltungen! So bringt Ihr Lebendigkeit in Eure Präsentationen, Besprechungen und Workshops. Ob in Kundenmeetings, Veranstaltungen und Trainings oder in internen Besprechungen: Ihr übt, Eure Nachricht bemerkenswert zu transportieren und und einen erstklassigen Eindruck zu hinterlassen! FLIPCHARTS, DIE BEEINDRUCKEN. \n\nProfessional, creative, effective! Put an end to boring events! This is how you bring liveliness to your presentations, meetings and workshops. Whether in customer meetings, events and trainings or in internal meetings: You practise conveying your message remarkably and leaving a first-class impression! FLIPCHARTS THAT IMPRESS. \n\nCOSTS: 200 €\nTIME: 8H\nCOURSETYPE: (ONLINE-)SEMINAR\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "TruE - Transparenz und Eigenverantwortung",
+  "Column2": "In diesem Kurs kannst du einen Blick auf die Zahlenwelt werfen. Du kannst dich z.B. zum Thema Auslastung, Geschäftsmodell oder dem Erfolgsindikator informieren.\n\nIn this course you can take a look at the world of figures. For example, you can find out about capacity utilisation, the business model or the success indicator.\n\nCOSTS: 0 €\nTIME: CA. 0,5 H\nCOURSETYPE: ELEARNING\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Mobile Security School ",
+  "Column2": "IT-Sicherheit ist keine einmalige Aufgabe, die man abschließen und vergessen kann. Sie ist ein Prozess, der unsere Entwicklung begleitet und an den wir immer wieder denken müssen. In diesem Kurs findest du Seminare und diese zeigen wir dir, wie ihr eure Mobile Apps sicher macht.\n\nKOSTEN: 300€\nZEIT: 12H\nKURSTYP: (ONLINE-)SEMINAR\nVORAUSSETZUNG: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Scrum Dojo",
+  "Column2": "In dieser Schulung programmieren wir in drei 2-Stunden-Sprints ein digitales Wettbüro.\nDabei lernt ihr, was es bedeutet, Software Engineer in einem Scrum Projekt zu sein. Ihr werdet selbst organisiert eure Arbeit planen, fertige Inkremente ausliefern und mit Product Owner und Stakeholdern das Produkt verbessern.\n\nIn this training we will program a digital betting office in three 2-hour sprints.\n\nYou will learn what it means to be a software engineer in a Scrum project. You will plan your work in a self-organized way, deliver finished increments and improve the product with the product owner and stakeholders.\n\nKOSTEN: 300 €\nZEIT: 12H\nKURSTYP:  SEMINAR\nZIELGRUPPE: ALLE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Blinkist - Annual License",
+  "Column2": "Blinkist is an application that summarises non-fiction books and provides concise 15-minute audio and text learning units. \nThe so-called \"Blinks\" are available in English and in German. \n\nCOSTS: 69€ UNTIL 31.10.2024 (THE PRICE REMAINS THE SAME ALL YEAR)\nTYPE: LICENSE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "LinkedIn - How to make the most of social networking",
+  "Column2": "This is part 2 of the social networking classes. It is focused on LinkedIn as one of the most popular social media platforms.\n\nThe course is 100% online and will be held in english. There will be some Q&A sessions also in german.\nExpect edutainment videos, exercises and live Q&A sessions with, your trainer.\n\n\nShe reveals in this online LinkedIN training not only how to get the best out of LinkedIN. She gives secret tips how to expand your network, make yourself more visible, position yourself and much more. \n\nMODULE 1: POSITIONING. THE FOUNDATIONS OF YOUR PERSONAL BRANDr\n Module 2: LinkedIn profile optimization\n Module 3: Expanding your network on LinkedIn\n Module 4: Creating content on LinkedIn\n MODULE 5: Generating leads and social selling on LinkedIn\nMODULE 6: Collaborations and more (free) publicity\/visibility\n\nCOSTS: 0€ \/ (300€ FOR SESSIONS & Q&A)\nTIME: CA. 16H \nCOURSETYPE: SIX-WEEK LEARNING JOURNEY WITH Q&A SESSIONS, VIDEOS AND MUCH MORE\nTARGET GROUP: All\nREQUIREMENTS: NONE, SOCIAL NETWORKING CLASS PART 1 IS RECOMMENDED\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "From Decoding Culture to Managing Diversity",
+  "Column2": "Working in a globalised world and in an increasing international environment can be challenging, but it is becoming our reality. Everyday situations can trigger unexpected feelings that we are not always prepared to deal with. In this workshop we will introduce tools and approaches to cope with some of those challenges by using interactive methods.\n\nCosts: 300 €\nTime: 12h (4 x 3Std.)\nCoursetype: Online-Seminar\nTarget Group: All\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Social Networking Part 1 - Ramp-Up",
+  "Column2": "This 100% e-Learning course is meant as an introduction to social networking.\nIt also prepares for the second course which will be focused on LinkedIn and hosted by. \nIn the five chapters of this class you will get a lot of impulses to reflect on your social networking activities so far. You have the opportunity to get your own perspective and goals clear. You will get some tips to check the current state of your social network.\n\nIn this class only YOU control the speed. and the intensity. A good rule of thumb for this course is to allow 60-90 minutes for each chapter. The total time will be 6 to 7 hours, if you complete all tasks.\nIt is recommended that you complete the course within approximately two weeks, best before attending part 2 of the training, whre LinkedIn as  most popular platform for social business networking.\nJust, enrol yourself, get started and have fun!\n\nCOSTS: FOR FREE! \nEffort: ca. 7 h \nDuration:  ca. 2 weeks\nCoursetype: 100% e-Learning\nTARGET GROUP: All\nLevel: beginners and all others\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Scrum Master Mentoring",
+  "Column2": "Du bist angehender Scrum Master?\nDu bist erfahrener Scrum Master und sucht einen Sparringspartner?\nDu suchst jemanden, der dich in deiner Weiterentwicklung als Scrum Master\/Agile Coach unterstützt?\nDu suchst jemanden, der mit dir auf deine alltäglichen Hürden in deinem konkreten Kontext schaut?\nDann kannst du mit diesem Angebot stundenweise Mentoring in Anspruch nehmen!\n\nAre you a budding Scrum Master?\nAre you an experienced Scrum Master looking for a sparring partner?\nAre you looking for someone to support you in your further development as a Scrum Master\/Agile Coach?\nAre you looking for someone to look at your daily hurdles in your specific context?\nThen you can take advantage of this offer of mentoring by the hour!\n\nCOSTS: X € PER HOUR\nTIME: INDIVIDUAL\nCOURSETYPE: 1 TO 1 COACHING BY DAVID \nTARGET SCRUM MASTER\nREQUIREMENTS: SCRUM MASTER\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Spanish with Ease",
+  "Column2": "Dies ist ein Angebot für alle Kollegen*innen, die ihr Spanisch in einem Einzelcoaching verbessern wollen. Das Coaching umfasst 10 Termine. Jeder Termin beinhaltet eine Doppelstunde von je 45 Minuten. Das Training ist für jedes Level und kann 1:1 oder remote durchgeführt werden.\n\nKOSTEN: 1.000€ \nZEIT: 10X90 MIN\nKURSTYP: ONLINE-SEMINAR\nZIELGRUPPE: ALLE\nVoraussetzungen: Das Training ist für jedes Level und kann 1:1 oder remote durchgeführt werden\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Discovering Aggregate Implementation Patterns and Event-Sourcing via \"Code Koans\"",
+  "Column2": "Discover different ways to implment the Aggregate pattern from DDD and learn the basics of Event-Sourcing.\nYou will be working in an ensemble (mob) and solve „Code Koans“ – add missing production code until all test-cases are green.\n\nCOSTS: 100 € \nTIME:  4H \nCOURSETYPE: SEMINAR\nTARGET GROUP: All\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Bewerbungsgespräche erfolgreich führen"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "QMS",
+  "Column2": "In this mandatory e-learning you will get to know the quality management system.\n\nDURATION: 15 MIN.\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Didactics in E-Learning",
+  "Column2": "In this course you will find support for creating e-learnings with our authoring tool Evolve.\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "BarCamp: slicing (micro-)services",
+  "Column2": "Das Schneiden von Services und das Finden guter Service Boundaries ist in der Regel eines der schwierigsten Probleme bei der Implementierung einer (Micro-)Service-Architektur. Unsere eigene Erfahrung zeigt, dass es auch meist sehr teuer ist, Änderungen am Service-Schnitt vorzunehmen.\n\n\t* Welche Methodiken helfen uns beim Service Schnitt? \n\n\t* Was tun wir, wenn ein guter Schnitt nicht sofort offensichtlich ist?\n\n\t* Welche Kriterien helfen bei der Bewertung eines Schnitts? \n\nIn diesem Barcamp werdet ihr eure Probleme und Beispiele aus der Praxis mit Experten und anderen Teilnehmern diskutieren.\n\n----\n\nSlicing services and finding good service boundaries usually is one of the hardest problems when implementing a (micro-)service architecture. Our own experience teaches us that it's also usually very expensive to make changes to the service cut.\n\n\t* What methodologies help us with service slicing? \n\t* What do we do when it is not immediately obvious how to slice services?\n\t* What criteria help in evaluating if we found good boundaries? \n\nIn this bar camp you get the opportunity to discuss your real world problems and examples with experts and other participants.\n\nCOSTS: 100€\nTIME: 4H\nCOURSE TYPE: ONLINE SEMINAR\nTARGET GROUP: ALLE\nREQUIREMENTS: SOME PROJECT EXPERIENCE WITH MICRO SERVICES\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Knowledge Sharing Hands-On: Serverless Architecture",
+  "Column2": "In this hands-on session, we will try out different approaches of a serverless application and discuss their advantages and disadvantages. We want to work out what are core properties of serverless applications and how we can best use this in our application architecture.\n\nCOSTS: 100 € \nTIME: CA. 4H \nCOURSETYPE: BARCAMP\nTARGET GROUP: All\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "BarCamp: Reliable Infrastructure",
+  "Column2": "Have you ever wondered how Cloud providers guarantee their SLAs for Databases? Did you ever long to know how disaster-proof your message broker actually is? What would you recommend to a customer who needs to operate a business-critical system on-premise?\n\nWhere our projects usually resort to Cloud Providers, third party contractors or the customers’ IT department, we want to dig a bit deeper and explore the deep magic of maintaining reliable infrastructure.\n\nIn case you are wondering \"What is a barcamp?\"\nUnlike traditional conference formats, BarCamps have a self-organizing character, relying on the passion and the responsibility of the participants. All attendees are encouraged to present or facilitate a session or otherwise contribute to the event. The content is provided by the participants.\n\nCOSTS: 100 € \nTIME: 4H \nCOURSETYPE: BARCAMP\nTARGET GROUP: All\nREQUIREMENTS: NONE, SOCIAL NETWORKING CLASS PART 1 IS RECOMMENDED\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Moderationstechniken für Meetings und Workshops",
+  "Column2": "\t* Wie kann ich im Chaos als Moderator:in den Überblick behalten? \n\t* Wie erschaffen wir sowohl im Meetingraum wie auch virtuell ein gutes und produktives Gesprächsklima? \n\t* Und wie behalten wir das eigentliche Ziel im Blick? \n\t* Und was, wenn ich selbst eine Meinung zum Thema habe?\n\nHattest du schon mal eine dieser Fragestellungen? Dann bist du hier richtig!\nIhr startet mit einem Live Seminar und macht dann remote noch eine Vertiefung. \n\n\t* How can I keep an overview in the chaos as a facilitator? \n\t* How do we create a good and productive atmosphere in the meeting room as well as virtually? \n\t* And how do we keep the actual goal in mind? \n\t* And what if I myself have an opinion on the topic?\n\nHave you ever had one of these questions? Then you've come to the right place!\nYou start with a live seminar and then go into more depth remotely. \n\nCOSTS: 200€\nTIME: APPROX. 11H \nCOURSE TYPE: SEMINAR LIVE & DEEPENING REMOTELY\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Selbstverantwortung & Selbstmanagment",
+  "Column2": "Im Workshop erfährst Du:\n\n\t* Wofür Du verantwortlich bist und wofür nicht\n\t* Wie Du dich selbst motivieren kannst um an deinen Zielen beharrlich dranzubleiben\n\t* Wie Du deinen Alltag selbstverantwortlich organisieren kannst\n\t* Wie Du die dir verfügbare Zeit wirksam planen kannst\n\t* Worin der Unterschied zwischen dem „Prinzip Selbstverantwortung“ und dem „Prinzip Schuld“ liegt und was das für die Zusammenarbeit bedeuten kann\n\t* Wie Du es schaffst, die Menschen in deinem Umfeld so zu unterstützen, dass sie ein noch höheres Verantwortungsbewusstsein entwickeln können\n\nIn the workshop you will learn:\n\n\t* What you are responsible for and what you are not responsible for\n\t* How you can motivate yourself to persevere with your goals\n\t* How to organise your daily life in a self-responsible way\n\t* How to effectively plan your available time\n\t* What the difference is between the \"principle of self-responsibility\" and the \"principle of guilt\" and what this can mean for cooperation.\n\t* How you can support the people around you in such a way that they can develop an even greater sense of responsibility.\n\nCOSTS: 200€ \nTIME: 2X 3H\nCOURSE TYPE: REMOTE SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Wirkungsvoll und authentisch präsentieren",
+  "Column2": "Wer im Kontakt mit Mitarbeiter*innen und Kund*innen steht, kommt meistens nicht umhin, Präsentationen zu halten, Statusberichte zu geben, eine Idee zu pitchen oder in anderen Settings vor Menschen zu sprechen. Oft fühlen wir uns in solchen Situationen nervös, plötzlich wissen wir nicht mehr, was wir mit unseren Händen tun sollen. Der Druck steigt, wenn wir bemerken, dass die Zuhörer*innen gedanklich nicht mehr bei uns sind. Tipps und Tricks bekommst du im eintägigen Seminar mit Torsten und Nadine. \n\nKOSTEN:  200€\nZEIT:  8H \nKURSTYP:  SEMINAR \nZIELGRUPPE: ALLE\nVORAUSSETZUNGEN: KEINE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Kommunikationskompetenz",
+  "Column2": "Die Anzahl an besuchten Kommunikationsseminaren und gelesener Bücher zum Thema Kommunikation hat in den letzten Jahren enorm zugenommen. Interessanterweise werden die Missverständnisse (oder zumindest das Bewusstsein dafür) eher mehr als weniger. Grund hierfür ist, dass der Fokus in Gesprächen zu oft auf den Inhalt gelegt wird. Doch nur, wenn Dein Gegenüber auch emotional aufnahmebereit ist und Dir die Berechtigung gibt, zu kommunizieren, gelingt der Austausch. Das Training deiner eigenen kommunikativen Kompetenz bildet die Basis dafür, andere Menschen besser verstehen, erfolgreich überzeugen, zum Handeln anregen und führen zu können. Im Workshop erfährst Du…\n\n\t* Was die entscheidenden Faktoren für deine kommunikative Kompetenz sind\n\t* Wie Du Menschen in der Kommunikation besser erreichst\n\t* Welche Fehler häufig passieren und wie Du diese gezielt erkennen und vermieden kannst\n\t* Was individuelle, soziale und physiologische Filter der Aufnahmebereitschaft sind und wie diese dazu führen können, dass Du die Verbindung zu deinem Gegenüber aufbauen oder auch verlieren kannst\n\nThe number of communication seminars attended and books read on the subject of communication has increased enormously in recent years. Interestingly, the misunderstandings (or at least the awareness of them) are becoming more rather than less. The reason for this is that the focus in conversations is too often placed on the content. But only if your counterpart is also emotionally receptive and gives you the permission to communicate, the exchange will succeed. Training your own communicative competence forms the basis for understanding other people better, being able to convince them successfully, to inspire them to act and to lead them. In the workshop you will learn...\n\n\t* What the decisive factors are for your communicative competence\n\t* How you can better reach people in communication\n\t* Which mistakes often happen and how you can recognise and avoid them\n\t* What individual, social and physiological filters of receptiveness are and how these can lead to you building up or losing the connection to your counterpart.\n\nCOSTS: 250€\nTIME: 8H\nCOURSETYPE: (ONLINE-)SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Kreativitäts (-techniken)",
+  "Column2": "The brilliant idea at the right time! Who wouldn't like that sometimes? Creativity at the push of a button, so to speak. This much is certain: innovation requires creativity. But how do we get creativity out of people's heads? How can we create something new again and again? And how can we implement the new? HOW CAN WE INTEGRATE CREATIVITY INTO EVERYDAY (PROFESSIONAL) LIFE?\n\nDie zündende Idee zur richtigen Zeit! Wer wünscht sich das nicht manchmal? Kreativität auf Knopfdruck, sozusagen. Soviel ist sicher: Innovation braucht Kreativität. Aber wie bekommen wir die Kreativität aus den Köpfen der Menschen heraus? Wie können wir immer wieder etwas Neues schaffen? Und wie können wir das Neue umsetzen? WIE KÖNNEN WIR KREATIVITÄT IN DEN (BERUFS-)ALLTAG INTEGRIEREN?\n\nCOSTS: 200€\nTIME: 8H\nTRAINER: \nCOURSE TYPE: (ONLINE-) SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Publizistisch schreiben fürs Business",
+  "Column2": "Wie formuliere ich so, dass andere mich verstehen – sei es in Emails, in Publikationen, in Anleitungen, auf Social Media oder im direkten Gespräch? Wie schreibe ich treffsicher und strukturiere auch komplexe Inhalte so, dass die wesentliche Botschaft ankommt? Und wie entstehen eigentlich Missverständnisse? In vier aufeinander aufbauenden Modulen bietet die Journalisti einen Einblick in Theorie und Handwerk des journalistischen Schreibens. Sie gibt Tipps und Tricks an die Hand, wie aus einem mittelmäßigen Text ein guter wird. Und dann geht es ans selber Schreiben – Texte, die unseren Arbeitsalltag leichter und schöner machen.\n\nHow do I formulate so that others understand me - be it in emails, in publications, in instructions, on social media or in direct conversation? How do I write accurately and structure even complex content so that the essential message gets across? And how do misunderstandings actually arise? In four modules that build on each other, journalist offers an insight into the theory and craft of journalistic writing. She provides tips and tricks on how to turn a mediocre text into a good one. And then it's on to writing yourself - texts that make our everyday work easier and more enjoyable.\n\nCOST: 400€ + ADDITIONAL COACHING SESSION IF REQUIRED\nTIME: 4 X 180 MIN \nCOURSE TYPE: SEMINAR + COACHING ADDITIONAL BOOKABLE\nTRAINER:\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Improvisationstraining",
+  "Column2": "Überraschungen und Unvorhergesehenes sorgen für Stress, beim einen führen sie zu Hektik und Aktionismus, bei der anderen zur kompletten Erstarrung. Leichtigkeit ade. Und wenn dann noch eine spontane Lösung in Teamarbeit gefragt ist, wie soll dann eine Abstimmung gelingen, wenn nur ein enges Zeitfenster zur Verfügung steht?\nSoviel man auch vorausplant, letztendlich muss man seine Pläne meist kurzfristig ändern.\n\nSurprises and the unexpected cause stress; for one person they lead to hectic activity and actionism, for another to complete paralysis. Goodbye ease. And if a spontaneous solution is required in teamwork, how can coordination succeed if there is only a narrow time window available?\nNo matter how much you plan ahead, in the end you usually have to change your plans at short notice.\n\nCOSTS: 200€\nTIME: APPROX. 6-8H \nCOURSE TYPE: SEMINAR (LIVE OR REMOTE)\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "WuKu deep dive studios",
+  "Column2": "Ihr taucht in die Themen ein, die euch jetzt am nützlichsten erscheinen. Bucht euch einfach selbst in die Sessions ein, die Plätze sind begrenzt.\n\nWie immer auf dieser Reise geht es darum, in Aktion zu kommen, Neues auszuprobieren und zu üben! Viel Spaß!\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Professional SCRUM with KANBAN",
+  "Column2": "Häufig wird Kanban als Alternative zu Scrum verstanden. In diesem Training wird jedoch der Fokus darauf gelegt, wie Scrum-Teams von zusätzlichen Kanban-Praktiken profitieren können. Im Fokus steht dabei die Optimierung des Flows, also des Arbeitsflusses innerhalb des bestehenden Scrum-Prozesses. Die dabei vorgestellten Konzepte eröffnen neue Perspektiven und Möglichkeiten in der Planung, Steuerung und dem Monitoring von Projekten. Themen wie Schätzung und Prognosen werden aus anderen Blickwinkeln betrachtet. Dieses Training ist der konsequente nächste Schritt für Teams die bereits einige Erfahrung mit Scrum gesammelt haben.\n\nKosten: 1.260€\nZEIT: 16H \nKURSTYP: SEMINAR\nZIELGRUPPE: SCRUM MASTER\nVORAUSSETZUNGEN: KENNTNISSE UND IDEALERWEISE PRAKTISCHE ERFAHRUNG IN DER ANWENDUNG DES SCRUM-RAHMENS SIND ERFORDERLICH \n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "In diversen Teams arbeiten",
+  "Column2": "Hopefully you will find your very personal answers to some oft he following questions\n\n-        What does DEI really mean?\n-        Why is DEI important to me very personally?\n-        What are my unconscious biases and what are the consequences?\n-        How is diversity linked to psychological safety and how can I create a psychologically safe atmosphere when I work with others?\n-        What does this mean for the team I work with?\n-        How can I contribute to bring the DEI topic deeper into the organization?\n\nCOST: 500 €\nTIME: 12H (4X3 WORKSHOP + ~3 HOURS PER WEEK ADDITIONAL)\nCOURSE TYPE: (ONLINE) SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTS: NONE\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Road to Scrum Mastery",
+  "Column2": "Come with us on a 6-month journey and learn from and with other Scrum Masters! \n\nWe discover Scrum with all its aspects and learn many new ways to master the daily routine with Scrum Teams.\n\n\t* COSTS: 875€\n\t* SUITABLE FOR SCRUM MASTERS OF ALL EXPERIENCE LEVELS\n\n\t* SOMETHING COMPLETELY DIFFERENT THAN A CLASSICAL, THEORETICAL 2-DAY SCRUM TRAINING\n\n\t* 12 SESSIONS OF 3 HOURS EACH IN REGULAR INTERVALS SPREAD OVER APPROX. 6 MONTHS\n\t* COMPLETELY REMOTE\n\n[Road to Scrum Mastery]\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Datenschutz ",
+  "Column2": "Der Datenschutz betrifft fast alle Bereiche des täglichen Lebens. Daher ist es wichtig zu wissen, wie man sein Recht auf informationelle Selbstbestimmung wahrnehmen kann. Aber auch, wie man dieses Recht anderer Personen schützt. Auch unsere Kunden sehen den Datenschutz als immer wichtigeren Aspekt ihrer Projekte und Unternehmungen.\n \nDie gesetzlichen Bestimmungen und die Vereinbarungen, die wir mit unseren Kunden getroffen haben, sehen vor, dass alle unsere Mitarbeiter regelmäßig in den Grundlagen des Datenschutzes geschult werden. Die Schulung im Datenschutz ist verpflichtend für alle Mitarbeiter, die ihren Arbeitsplatz in Deutschland haben. Die Schulung wird ca. 50 Minuten Deiner Zeit beanspruchen. Dein Weiterbildungsbudget wird durch die Schulung nicht belastet.\nNachdem Du die Schulung erfolgreich absolviert hast, bestätige Deine Teilnahme bitte noch in \n \nWenn Du darüber hinaus Fragen oder Anregungen zum Thema Datenschutz hast, komm gerne auf Deinen Datenschutzbeauftragten zu.\n\nCOSTS: 0 €\nTIME: CA. 1H\nCOURSETYPE: ELEARNING\nREQUIREMENTS: BINDING FOR ALL MW EMPLOYEES\n\n"
+ },
+ {
+  "Dieser Bericht enthält Datensätze, die den folgenden Kriterien entsprechen:": "Produktiv mit Fehlern umgehen",
+  "Column2": "In dem Training geht es um die individuelle Fehlerperspektive: WARUM MACHT UNS „SCHEITERN“ ANGST? Wie gehen wir mit eigener Fehlbarkeit um. Das fängt beim Stress durch „Zu Spät“ kommen an und hört bei gravierenden Fehlern auf. Alles startet mit einem Veränderungs-Mindset und unseren Glücksbotenstoffen im Gehirn. Diese sind die Grundlage souverän mit der eigenen Persönlichkeit umzugehen.\n\nThe training is about the individual perspective of failure: Why does \"failure\" scare us? How do we deal with our own fallibility? It starts with the stress of being \"too late\" and ends with serious mistakes. It all starts with a change mindset and our happiness messengers in the brain. These are the basis for dealing confidently with one's own personality.\n\nCOSTS: 200 €\nTIME: 8H \nCOURSE TYPE: (ONLINE) SEMINAR\nTARGET GROUP: ALL\nREQUIREMENTSS: NONE\n\n"
+ }
+]
