@@ -8,7 +8,7 @@ import os
 
 
 def write_to_firestore(data, file_url):
-    db = firestore.Client.from_service_account_json("firestore-key.json")
+    #db = firestore.Client.from_service_account_json("firestore-key.json")
 
     key_dict = json.loads(st.secrets["textkey"])
     creds = service_account.Credentials.from_service_account_info(key_dict)
@@ -27,7 +27,12 @@ def write_to_firestore(data, file_url):
 
 def upload_summary_file(data):
     
-    storage_client = storage.Client.from_service_account_json("firestore-key.json")
+    #storage_client = storage.Client.from_service_account_json("firestore-key.json")
+
+    key_dict = json.loads(st.secrets["textkey"])
+    creds = service_account.Credentials.from_service_account_info(key_dict)
+    storage_client = storage.Client(credentials=creds, project="task-assistant-159ac")
+    
     markdown_file_name = "summary-" + str(data["id"]) + ".md"
     with open(markdown_file_name, "w", encoding="utf-8") as markdown_file:
         print(data["summary"])

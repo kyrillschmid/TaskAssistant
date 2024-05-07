@@ -51,7 +51,7 @@ def page_form():
         initial_question = query_model(st.session_state.messages)
         st.session_state.messages.append({"role": "assistant", "content": initial_question})
         st.session_state.page = "interview"
-        st.experimental_rerun()
+        st.rerun()
 
         
 def page_interview():
@@ -72,7 +72,7 @@ def page_interview():
         with col3:
             if st.button("Summarize"):
                 st.session_state.page = "summary"
-                st.experimental_rerun()
+                st.rerun()
     prompt = st.chat_input("Your message")
 
     if prompt:
@@ -112,7 +112,7 @@ def page_summary():
         write_to_firestore(data, public_url)
         
         st.session_state.summary_submitted = True
-        st.experimental_rerun()
+        st.rerun()
     
 
 def main():
