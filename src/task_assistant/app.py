@@ -4,7 +4,7 @@ import uuid
 import json
 
 from departments import get_departments
-from prompts import get_summary_prompt, get_system_prompt, get_course_prompt
+from prompts import get_summary_prompt, get_system_prompt
 from call_model import query_model, generate_summary
 from firestore_util import write_to_firestore, upload_summary_file
 
