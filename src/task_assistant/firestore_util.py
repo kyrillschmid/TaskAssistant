@@ -1,11 +1,18 @@
-
 from google.cloud import firestore, storage
-
+from google.oauth2 import service_account
 from datetime import datetime
+import streamlit as st
+import json
 import os
+
+
 
 def write_to_firestore(data, file_url):
     db = firestore.Client.from_service_account_json("firestore-key.json")
+
+    key_dict = json.loads(st.secrets["textkey"])
+    creds = service_account.Credentials.from_service_account_info(key_dict)
+    db = firestore.Client(credentials=creds, project="task-assistant-159ac")
     
     department = data["department"]
     if department == "":
